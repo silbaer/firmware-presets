@@ -255,6 +255,7 @@
       "sbus",
       "shames",
       "shark bite",
+      "silbaer",
       "smooth",
       "smoothing",
       "some",
@@ -3122,6 +3123,35 @@
         "misc/disclaimer/en/vtxtable.txt"
       ],
       "discussion": "https://github.com/betaflight/firmware-presets/pull/105",
+      "include": [
+        "presets/4.3/vtx/defaults_vtx_tables.txt"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/vtx/speedybee_tx800_silbaer.txt",
+      "hash": "676acb2bab5f56829d361031aa8ab95cab3168d16bb1393e4c9fd4df30c24a72",
+      "options": [],
+      "title": "SpeedyBee TX800 VTX Tables, silbaer edition",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "speedybee",
+        "tx800",
+        "silbaer"
+      ],
+      "author": "NemesisXB",
+      "description": [
+        "VTX tables for the SpeedyBee TX800 with all frequencies"
+      ],
+      "include_disclaimer": [
+        "misc/disclaimer/en/vtxtable.txt"
+      ],
       "include": [
         "presets/4.3/vtx/defaults_vtx_tables.txt"
       ]
