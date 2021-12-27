@@ -8,14 +8,10 @@
 #$ DESCRIPTION: VTX tables  with all frequencies but without power levels
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
 
-#$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
-
 # Configure common vtxtable settings
 vtxtable bands 5
 vtxtable channels 8
-vtxtable powerlevels 5
-vtxtable powervalues 25 200 400 600 600
-vtxtable powerlabels 25 200 400 800 800
+
 
 vtxtable band 1 BOSCAM_A A CUSTOM  5865 5845 5825 5805 5785 5765 5745 5725
 vtxtable band 2 BOSCAM_B B CUSTOM  5733 5752 5771 5790 5809 5828 5847 5866

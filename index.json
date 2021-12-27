@@ -2882,7 +2882,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/complete_vtx_frequencies_silbaer.txt",
-      "hash": "f53c70fbbb7fb3eece73c88bef504d391059a1c4fca8b69a907ec4e4b4d0b4ca",
+      "hash": "bcb4679ddf2003c5356973fc1aaa152aff6fbbc07b9801c561fed0108289ab13",
       "options": [],
       "title": "Complete VTX Tables",
       "firmware_version": [
@@ -2901,9 +2901,6 @@
       ],
       "include_disclaimer": [
         "misc/disclaimer/en/vtxtable.txt"
-      ],
-      "include": [
-        "presets/4.3/vtx/defaults_vtx_tables.txt"
       ]
     },
     {
