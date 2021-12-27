@@ -129,6 +129,7 @@
       "NemesisXB",
       "SupaflyFPV",
       "ctzsnooze",
+      "silbaer",
       "sugarK"
     ],
     "keywords": [
@@ -2877,6 +2878,32 @@
       "include": [
         "presets/4.3/tune/defaults.txt",
         "presets/4.3/filters/defaults.txt"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/vtx/complete_vtx_frequencies_silbaer.txt",
+      "hash": "8e6091f4774b45a7e3a40cad7cf3ca597e6c8a882bfbe9a89edf4a05b7faa01f",
+      "options": [],
+      "title": "Complete VTX Tables",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table"
+      ],
+      "author": "silbaer",
+      "description": [
+        "VTX tables  with all frequencies but without power levels"
+      ],
+      "include_disclaimer": [
+        "misc/disclaimer/en/vtxtable.txt"
+      ],
+      "include": [
+        "presets/4.3/vtx/defaults_vtx_tables.txt"
       ]
     },
     {
